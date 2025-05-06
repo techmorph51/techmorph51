@@ -1,93 +1,102 @@
-<h1 align="center">Hi 👋, I'm 🌀 Lead Data Engineer</h1>
-<h3 align="center">An Engineer passionate about Cloud & Big Data Solutions</h3>
+<h1 align="center">Hi 👋, I'm Ray Khokhar, Lead Data Engineer | Data Architect</h1>
+<h3 align="center">An Engineer who ♥ Data and Cloud Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raykhokhar/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="raykhokhar" width="22px" />
+  <a href="https://www.linkedin.com/in/ray-khokhar/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="iamray" width="22px" />
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=raykhokhar&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=iamraykhokhar&style=flat-square&color=blue)
 
-🏢 I’m currently working as **Lead Data Engineer** at **Udacity**
+🏢 I’m currently working as **Lead Data Engineer | Data Architect**
 
-🌱 I’m currently working on **Architecting scalable Lakehouse platforms and optimizing real-time data pipelines**
+🌱 I’m currently working on **Building Scalable Cloud-Native Data Platforms and Real-Time Analytics**
 
-💡 Hashtag that describes me **`#BigDataArchitect`**
+💡 Hashtag that describes me **`#DataEngineer`**
 
-💬 Ask me about **Data Engineering, Cloud Platforms, and Real-time Data Pipelines**
+💬 Ask me about **Cloud Data Platforms, ETL/ELT Pipelines, and Big Data Solutions**
 
 📫 You can reach me at **codecatalyst.d@gmail.com**
 
-⚡ Fun fact **I design data systems that scale from the ground up**
+⚡ Fun fact **I turn complex data into actionable insights with cutting-edge cloud technologies**
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Architected a scalable **Lakehouse platform** on AWS using **Databricks** and **Delta Lake**, reducing reporting latency by 60% by unifying data silos and improving data lineage and discoverability - [Udacity](https://www.udacity.com/)
-- 📦 Optimized **ETL performance** by re-engineering **Spark** pipelines on **AWS Glue** and **Redshift**, achieving a 45% boost in throughput and significantly lowering compute costs - [Udacity](https://www.udacity.com/)
-- 📦 Built **real-time streaming pipelines** with **Apache Kafka** and **Flink** to enable **sub-second fraud detection**, directly supporting critical risk mitigation and operational responsiveness - [Udacity](https://www.udacity.com/)
-- 📦 Strengthened data quality and compliance by implementing **Great Expectations** and **Amazon Deequ**, increasing automated test coverage to 95% and meeting **HIPAA** and **GDPR** regulatory standards - [Udacity](https://www.udacity.com/)
-- 📦 Implemented **enterprise-grade data governance controls** including **RBAC**, **data masking**, **encryption-at-rest/in-transit**, and **IAM policy enforcement**, ensuring full **SOC 2** compliance across **AWS Lake Formation** - [Udacity](https://www.udacity.com/)
+- 📦 **Architected a scalable Lakehouse platform** on AWS using Databricks and Delta Lake, reducing reporting latency by 60% - [Udacity](https://www.udacity.com/)
+- 📦 **Built real-time streaming pipelines** with Apache Kafka and Flink for fraud detection - [Udacity](https://www.udacity.com/)
+- 📦 **Optimized ETL performance** with AWS Glue and Redshift, boosting throughput by 45% and reducing compute costs - [Udacity](https://www.udacity.com/)
+- 📦 **Unified 12+ data sources** using dbt and Airflow, ensuring data consistency and lineage - [LYFE Marketing](https://www.lyfemarketing.com/)
+- 📦 **Migrated on-prem Hadoop workloads** to GCP BigQuery, reducing infrastructure costs by 30% - [LYFE Marketing](https://www.lyfemarketing.com/)
 
 ##### 🧾 Certifications I have Accomplished
 
-- 🎖 **AWS Certified Solution Architect Associate**
-- 🎖 **AWS Certified Developer Associate**
-- 🎖 **AWS Certified Solution Architect Professional**
-- 🎖 **AWS Certified DevOps Engineer Professional**
-- 🎖 **AWS Certified DevOps Security Specialty**
+- 🎖 AWS Certified Solution Architect Associate
+- 🎖 AWS Certified Developer Associate
+- 🎖 AWS Certified Solution Architect Professional
+- 🎖 AWS Certified DevOps Engineer Professional
+- 🎖 AWS Certified DevOps Security Specialty
 
-#### Cloud Platforms
+#### Programming Language Stack
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="GCP" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Azure" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" title="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/scala/scala.png" alt="scala" title="scala" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>
 </p>
 
-#### Big Data & Streaming Stack
+#### Cloud Platforms Stack
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Apache_Spark_logo.svg" alt="spark" title="Apache Spark" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Apache_Kafka_logo.svg" alt="kafka" title="Apache Kafka" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache_Flink_logo.svg" alt="flink" title="Apache Flink" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Databricks_Logo.svg" alt="databricks" title="Databricks" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Apache_Hadoop_logo.svg" alt="hadoop" title="Hadoop" width="40" height="40"/>
-</p>
-
-#### Data Orchestration & ETL Stack
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Airflow_Logo.svg" alt="airflow" title="Apache Airflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/DBT_logo.svg" alt="dbt" title="DBT" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Fivetran_Logo.svg" alt="fivetran" title="Fivetran" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Talend_Logo.svg" alt="talend" title="Talend" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Informatica_logo.svg" alt="informatica" title="Informatica" width="40" height="40"/>
-</p>
-
-#### Databases & Data Warehousing
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Postgresql_elephant.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_Logo.svg" alt="mysql" title="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snowflake_Logo.svg" alt="snowflake" title="Snowflake" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Google_BigQuery_Logo.svg" alt="bigquery" title="BigQuery" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Amazon_Redshift_Logo.svg" alt="redshift" title="Redshift" width="40" height="40"/>
-</p>
-
-#### Data Governance & Quality
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Collibra_logo.svg" alt="collibra" title="Collibra" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Great_Expectations_Logo.svg" alt="great expectations" title="Great Expectations" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Atlan_Logo.svg" alt="atlan" title="Atlan" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/azure-icon.svg" alt="azure" title="azure" width="40" height="40" />
 </p>
 
 #### DevOps & Infrastructure as Code
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Terraform_Logo.svg" alt="terraform" title="Terraform" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg" alt="jenkins" title="Jenkins" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Docker_Logo.svg" alt="docker" title="Docker" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kubernetes_Logo.svg" alt="kubernetes" title="Kubernetes" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Git_logo.svg" alt="git" title="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40" />
 </p>
 
-#### Analytics & Machine Learning
+#### Big Data & Streaming
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Pandas_logo.svg" alt="pandas" title="Pandas" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Scikit_learn_logo.svg" alt="scikit-learn" title="
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" title="flink" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/spark/spark-icon.svg" alt="spark" title="spark" width="40" height="40" />
+</p>
+
+#### Databases & Data Modeling
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" title="snowflake" width="40" height="40"/>
+</p>
+
+#### Project Management & Collaboration
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
+</p>
+
+#### Education
+- **Bachelor of Science in Computer Science**  
+  The City University of New York
+
+#### Professional Experience
+- **Lead Data Engineer | 03/2022 – Present**  
+  **Udacity**  
+  Architected scalable cloud-native data platforms and engineered real-time streaming pipelines. Led data engineering team, optimized ETL pipelines, and implemented enterprise-level data governance across cloud platforms.
+
+- **Senior Data Engineer | 02/2018 – 03/2022**  
+  **LYFE Marketing**  
+  Modernized BI architecture, built real-time data ingestion pipelines, and implemented CI/CD practices across data pipelines. Led efforts to migrate legacy infrastructure to cloud-based solutions, reducing costs and improving efficiency.
+
+- **Data Engineer | 01/2016 – 02/2018**  
+  **Transcure**  
+  Designed and automated ETL workflows, improved sales forecasting accuracy, and developed interactive dashboards for operational visibility.
+
