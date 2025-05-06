@@ -49,7 +49,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/azure-icon.svg" alt="azure" title="azure" width="40" height="40" />
+  <img src="[https://www.vectorlogo.zone/logos/microsoft_azure/azure-icon.svg](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)" alt="azure" title="azure" width="40" height="40" />
 </p>
 
 #### DevOps & Infrastructure as Code
