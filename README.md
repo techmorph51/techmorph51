@@ -39,71 +39,71 @@
 
 #### Cloud Platforms
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Amazon_Web_Services_Logo.svg" alt="aws" title="aws" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="gcp" title="gcp" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg" alt="azure" title="azure" width="40" height="40" />
 </p>
 
 #### Big Data & Streaming Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" alt="spark" title="spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" title="flink" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" title="databricks" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hadoop/hadoop-icon.svg" alt="hadoop" title="hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Apache_Spark_logo.svg" alt="spark" title="spark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Apache_Kafka_logo.svg" alt="kafka" title="kafka" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache_Flink_logo.svg" alt="flink" title="flink" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Databricks_Logo.svg" alt="databricks" title="databricks" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Apache_Hadoop_logo.svg" alt="hadoop" title="hadoop" width="40" height="40"/>
 </p>
 
 #### Data Orchestration & ETL Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="airflow" title="airflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dbt/dbt-icon.svg" alt="dbt" title="dbt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" title="fivetran" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" title="talend" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" title="informatica" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Airflow_Logo.svg" alt="airflow" title="airflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/DBT_logo.svg" alt="dbt" title="dbt" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Fivetran_Logo.svg" alt="fivetran" title="fivetran" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Talend_Logo.svg" alt="talend" title="talend" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Informatica_logo.svg" alt="informatica" title="informatica" width="40" height="40"/>
 </p>
 
 #### Databases & Data Warehousing
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflakecomputing/snowflakecomputing-icon.svg" alt="snowflake" title="snowflake" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bigquery/google-bigquery-icon.svg" alt="bigquery" title="bigquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redshift/redshift-icon.svg" alt="redshift" title="redshift" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Postgresql_elephant.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MySQL_Logo.svg" alt="mysql" title="mysql" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snowflake_Logo.svg" alt="snowflake" title="snowflake" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Google_BigQuery_Logo.svg" alt="bigquery" title="bigquery" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Amazon_Redshift_Logo.svg" alt="redshift" title="redshift" width="40" height="40"/>
 </p>
 
 #### Data Governance & Quality
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/collibra/collibra-icon.svg" alt="collibra" title="collibra" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/greatexpectationsio/greatexpectationsio-icon.svg" alt="great expectations" title="great expectations" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlan/atlan-icon.svg" alt="atlan" title="atlan" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Collibra_logo.svg" alt="collibra" title="collibra" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Great_Expectations_Logo.svg" alt="great expectations" title="great expectations" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Atlan_Logo.svg" alt="atlan" title="atlan" width="40" height="40"/>
 </p>
 
 #### DevOps & Infrastructure as Code
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Terraform_Logo.svg" alt="terraform" title="terraform" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg" alt="jenkins" title="jenkins" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Docker_Logo.svg" alt="docker" title="docker" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kubernetes_Logo.svg" alt="kubernetes" title="kubernetes" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Git_logo.svg" alt="git" title="git" width="40" height="40" />
 </p>
 
 #### BI & Data Visualization
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" title="tableau" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" title="powerbi" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="looker" title="looker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg" alt="superset" title="superset" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Tableau_Logo.svg" alt="tableau" title="tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Power_BI_Logo.svg" alt="powerbi" title="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Looker_Logo.svg" alt="looker" title="looker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Apache_Superset_Logo.svg" alt="superset" title="superset" width="40" height="40"/>
 </p>
 
 #### Project Management & Version Control
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/GitHub_Logo.svg" alt="github" title="github" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/GitLab_Logo.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Atlassian_Jira_logo.svg" alt="jira" title="jira" width="40" height="40"/>
 </p>
 
 #### Editor / IDE I ♥
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/IntelliJ_IDEA_logo.svg" alt="intellij" title="intellij" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Visual_Studio_Code_Logo.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
