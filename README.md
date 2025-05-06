@@ -88,7 +88,7 @@
   The City University of New York
 
 #### Professional Experience
-- **Lead Data Engineer | 03/2022 – Present**  
+- **Lead Data Engineer | 03/2022 – 03/2025**  
   **Udacity**  
   Architected scalable cloud-native data platforms and engineered real-time streaming pipelines. Led data engineering team, optimized ETL pipelines, and implemented enterprise-level data governance across cloud platforms.
 
