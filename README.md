@@ -38,72 +38,54 @@
 - 🎖 **Azure Certified Data Engineer**
 
 #### Cloud Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="40" height="40" />
-</p>
+- **AWS** (Glue, S3, Redshift, EMR, Athena, Lambda)
+- **GCP** (BigQuery, Dataflow, Pub/Sub)
+- **Azure** (Synapse, Data Factory, Azure Data Factory)
 
 #### Big Data & Streaming Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" alt="spark" title="spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" title="flink" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" title="databricks" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hadoop/hadoop-icon.svg" alt="hadoop" title="hadoop" width="40" height="40"/>
-</p>
+- **Apache Spark**
+- **Apache Kafka**
+- **Apache Flink**
+- **Databricks**
+- **Hadoop**
 
 #### Data Orchestration & ETL Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="airflow" title="airflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dbt/dbt-icon.svg" alt="dbt" title="dbt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" title="fivetran" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" title="talend" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg" alt="informatica" title="informatica" width="40" height="40"/>
-</p>
+- **Airflow**
+- **dbt**
+- **Fivetran**
+- **Talend**
+- **Informatica**
 
 #### Databases & Data Warehousing
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflakecomputing/snowflakecomputing-icon.svg" alt="snowflake" title="snowflake" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bigquery/google-bigquery-icon.svg" alt="bigquery" title="bigquery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redshift/redshift-icon.svg" alt="redshift" title="redshift" width="40" height="40"/>
-</p>
+- **PostgreSQL**
+- **MySQL**
+- **Snowflake**
+- **BigQuery**
+- **Redshift**
 
 #### Data Governance & Quality
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/collibra/collibra-icon.svg" alt="collibra" title="collibra" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/greatexpectationsio/greatexpectationsio-icon.svg" alt="great expectations" title="great expectations" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlan/atlan-icon.svg" alt="atlan" title="atlan" width="40" height="40"/>
-</p>
+- **Collibra**
+- **Great Expectations**
+- **Atlan**
 
 #### DevOps & Infrastructure as Code
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40" />
-</p>
+- **Terraform**
+- **Jenkins**
+- **Docker**
+- **Kubernetes**
+- **Git**
 
 #### BI & Data Visualization
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" title="tableau" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" title="powerbi" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="looker" title="looker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg" alt="superset" title="superset" width="40" height="40"/>
-</p>
+- **Tableau**
+- **Power BI**
+- **Looker**
+- **Apache Superset**
 
 #### Project Management & Version Control
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
-</p>
+- **GitHub**
+- **GitLab**
+- **Jira**
 
 #### Editor / IDE I ♥
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
-</p>
+- **IntelliJ IDEA**
+- **Visual Studio Code**
